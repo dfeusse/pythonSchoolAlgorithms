@@ -1,0 +1,5 @@
+position = 0
+found = False
+
+while position < len(List) and not found:
+	if List[position] = item:
